@@ -1,0 +1,11 @@
+Type,Product,Started Date,Completed Date,Description,Amount,Fee,Currency,State,Balance
+Deposit,Savings,2024-06-11 09:00:00,2024-06-11 09:00:00,Initial deposit,1000,0,USD,Completed,1000
+Withdrawal,Checking,2024-06-12 12:30:00,2024-06-12 12:30:00,ATM withdrawal,100,1,USD,Completed,900
+Transfer,Savings,2024-06-13 15:45:00,2024-06-13 15:45:00,Transfer to checking,500,0,USD,Completed,500
+Payment,Credit Card,2024-06-14 08:15:00,2024-06-14 08:15:00,Monthly bill payment,200,0,USD,Completed,300
+Deposit,Investment,2024-06-15 10:00:00,2024-06-15 10:00:00,Investment contribution,500,0,USD,Completed,800
+Deposit,Checking,2024-06-16 09:00:00,2024-06-16 09:00:00,Salary,1500,0,USD,Completed,2300
+Withdrawal,Savings,2024-06-17 14:00:00,2024-06-17 14:00:00,ATM withdrawal,50,1,USD,Completed,2250
+Payment,Credit Card,2024-06-18 19:30:00,2024-06-18 19:30:00,Online purchase,120,0,USD,Completed,2130
+Transfer,Investment,2024-06-19 11:00:00,2024-06-19 11:00:00,Transfer to savings,300,0,USD,Completed,1830
+Deposit,Savings,2024-06-20 08:00:00,2024-06-20 08:00:00,Interest earned,20,0,USD,Completed,1850

@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1717514285517,
+      "tag": "0000_tranquil_misty_knight",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1717853647894,
+      "tag": "0001_harsh_synch",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1718427475026,
+      "tag": "0002_chubby_karma",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1718456321652,
+      "tag": "0003_lovely_frog_thor",
+      "breakpoints": true
+    }
+  ]
+}
